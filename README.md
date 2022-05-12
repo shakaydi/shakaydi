@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakaydi
 - 👀 I’m lately getting my hobby on with geneaological research, ham radio, and helping my plants survive.
-- 🌱 I’m currently learning Git, Markdown, and website building with WordPress.
+- 🌱 I’m a technical writer practicing Git, Markdown, and website building with Jekyll and WordPress.
 - 💞️ I’m looking to collaborate on projects that are useful and/or fun.
 
 <!---
